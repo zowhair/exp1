@@ -62,8 +62,8 @@
 
 .navbar-default{background:#005986;}
 .navbar{border:0;border-radius:0;}
-ul.navbar-nav {border-right:1px solid #84B6D0;  }
-ul.navbar-nav li a{border-left:1px solid #84B6D0;color:#fff; }
+ul.navbar-nav {border-right:1px solid #84B6D0; }
+ul.navbar-nav li a{border-left:1px solid #84B6D0;color:#fff;}
 
 .navbar-default .navbar-nav>li>a,.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{color:#fff;}
 .navbar-default .navbar-nav>li>a:hover{background:#022E44;}
@@ -103,7 +103,7 @@ ul.navbar-nav li a{border-left:1px solid #84B6D0;color:#fff; }
 }
 
 .welcome-note-head {
-	color: #556464;
+	color: #282e6a;
 	font-weight: 700;
 	font-size: 26px;
 	/*font-family: 'Dela Gothic One', cursive;*/
@@ -158,7 +158,7 @@ ul.navbar-nav li a{border-left:1px solid #84B6D0;color:#fff; }
   
   h2,
   .ms-WPBody h2 {
-    color: #000;
+    color: #282e6a;
   }
   
   .box h3 {
